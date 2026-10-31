@@ -1,0 +1,9 @@
+# Public research content and assets are crawlable.
+User-agent: *
+Allow: /
+
+# Search discovery (separate from model-training controls).
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://www.xunixibao.com/sitemap.xml

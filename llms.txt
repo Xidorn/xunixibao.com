@@ -1,0 +1,40 @@
+# AI虚拟细胞 / AI Virtual Cell
+
+> A bilingual technical services and project collaboration website focused on cell state prediction, drug response simulation and perturbation analysis.
+
+## 中文
+- [关于我们 | AI虚拟细胞](https://www.xunixibao.com/about.html)
+- [应用场景 | AI虚拟细胞](https://www.xunixibao.com/applications.html)
+- [细胞状态预测 | AI虚拟细胞](https://www.xunixibao.com/cell-state.html)
+- [合作需求 | AI虚拟细胞](https://www.xunixibao.com/contact.html)
+- [药物响应模拟，为什么离不开剂量与时间？ | AI虚拟细胞](https://www.xunixibao.com/drug-response.html)
+- [药物响应模拟 | AI虚拟细胞](https://www.xunixibao.com/drug-simulation.html)
+- [常见问题 | AI虚拟细胞](https://www.xunixibao.com/faq.html)
+- [AI虚拟细胞 | 细胞状态预测与药物响应模拟](https://www.xunixibao.com/)
+- [细胞预测模型如何验证，才更接近真实研究？ | AI虚拟细胞](https://www.xunixibao.com/model-validation.html)
+- [扰动机制探索 | AI虚拟细胞](https://www.xunixibao.com/perturbation.html)
+- [隐私说明 | AI虚拟细胞](https://www.xunixibao.com/privacy.html)
+- [研究参考 | AI虚拟细胞](https://www.xunixibao.com/references.html)
+- [研究洞察 | AI虚拟细胞](https://www.xunixibao.com/research.html)
+- [技术方法 | AI虚拟细胞](https://www.xunixibao.com/technology.html)
+- [AI虚拟细胞是什么？从细胞表征到扰动预测 | AI虚拟细胞](https://www.xunixibao.com/what-is-virtual-cell.html)
+
+## English
+- [About | AI Virtual Cell](https://www.xunixibao.com/en/about.html)
+- [Applications | AI Virtual Cell](https://www.xunixibao.com/en/applications.html)
+- [Cell state prediction | AI Virtual Cell](https://www.xunixibao.com/en/cell-state.html)
+- [Contact | AI Virtual Cell](https://www.xunixibao.com/en/contact.html)
+- [Why dose and time matter in drug response simulation | AI Virtual Cell](https://www.xunixibao.com/en/drug-response.html)
+- [Drug response simulation | AI Virtual Cell](https://www.xunixibao.com/en/drug-simulation.html)
+- [FAQ | AI Virtual Cell](https://www.xunixibao.com/en/faq.html)
+- [AI Virtual Cell | Cell state prediction and drug response simulation](https://www.xunixibao.com/en/)
+- [How should cell prediction models be validated? | AI Virtual Cell](https://www.xunixibao.com/en/model-validation.html)
+- [Perturbation analysis | AI Virtual Cell](https://www.xunixibao.com/en/perturbation.html)
+- [Privacy | AI Virtual Cell](https://www.xunixibao.com/en/privacy.html)
+- [References | AI Virtual Cell](https://www.xunixibao.com/en/references.html)
+- [Insights | AI Virtual Cell](https://www.xunixibao.com/en/research.html)
+- [Technology | AI Virtual Cell](https://www.xunixibao.com/en/technology.html)
+- [What is an AI virtual cell? From representation to perturbation prediction | AI Virtual Cell](https://www.xunixibao.com/en/what-is-virtual-cell.html)
+
+## Scope
+Research articles explain methods and cite independent sources. Project scope, deliverables and acceptance criteria are agreed per engagement. Inquiry details are sent to the notification service only when the visitor submits the form. No research dataset uploads are requested.
